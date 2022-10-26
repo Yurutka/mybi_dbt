@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: stg_date_gen
+    description: ""
+    columns:
+      - name: id 
+        description: ""
+        
